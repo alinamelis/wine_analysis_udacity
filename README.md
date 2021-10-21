@@ -14,6 +14,8 @@ Content
 - winemag-data_first150k.csv.zip (Compressed data. Please unzip into the same folder with the code before execution.) 
 - winemag-data-130k-v2.csv.zip (Compressed data. Please unzip into the same folder with the code before execution.) 
 
+The notebook is structured according to CRISP-DM approach.
+
 An article describing the results is published here: https://v-alina.medium.com/taste-before-you-buy-582827f16a16
 
 Contributing
